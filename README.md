@@ -1,7 +1,13 @@
-🌍 Triply — Travel Recommendation App
+🌍 Triply — Seyahat Öneri Uygulaması (TR)
 
-Triply is a travel recommendation application that helps users discover places in different cities based on their interests.
-The app provides personalized suggestions for categories such as Food & Drink, Accommodation, Cultural & Historical Sites, and Shopping.
+Triply, kullanıcıların ilgi alanlarına göre farklı şehirlerdeki yerleri keşfetmesine yardımcı olan bir seyahat öneri uygulamasıdır. Uygulama, Yiyecek & İçecek, Konaklama, Kültürel & Tarihi Mekânlar ve Alışveriş gibi kategorilerde kişiselleştirilmiş öneriler sunar.
+
+Öneriler, Google Places API kullanılarak çekilir; bu sayede kullanıcılar gerçek dünya mekanlarını detaylı bilgilerle keşfedebilir.
+
+
+🌍 Triply — Travel Recommendation App (EN)
+
+Triply is a travel recommendation application that helps users discover places in different cities based on their interests. The app provides personalized suggestions for categories such as Food & Drink, Accommodation, Cultural & Historical Sites, and Shopping.
 
 Recommendations are fetched using the Google Places API, allowing users to explore real-world locations with detailed information.
 
