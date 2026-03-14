@@ -1,0 +1,43 @@
+name: main
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you want to publish to pub.dev.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.19.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2
+  provider: ^6.0.3
+  shared_preferences: ^2.0.0
+  google_maps_flutter: ^2.2.5
+
+
+  # Firebase ve Google Sign-In
+  firebase_core: ^2.15.0
+  firebase_auth: ^4.6.2
+  google_sign_in: ^6.2.2
+
+  # Flutter lints
+  flutter_lints: ^2.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - lib/image/Triply.jpg
+    - lib/image/accomodation.jpeg
+    - lib/image/culturalhistorical.jpeg
+    - lib/image/foodanddrink.jpeg
+    - lib/image/shopping.jpeg
+    - lib/image/entercity.jpeg
+    - lib/image/selectcity.jpeg
+    - lib/image/selectcountry.jpeg
